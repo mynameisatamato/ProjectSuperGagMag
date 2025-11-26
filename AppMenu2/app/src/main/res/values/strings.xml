@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppMenu2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="หน้าหลัก">หน้าหลัก</string>
+    <string name="หน้าสินค้า">หน้าสินค้า</string>
+    <string name="หน้าแจ้งเตือน">หน้าแจ้งเตือน</string>
+    <string name="menuหน้าหลัก">หน้าหลัก</string>
+    <string name="menuหน้าสินค้า">หน้าสินค้า</string>
+    <string name="menuหน้าแจ้งเตือน">หน้าแจ้งเตือน</string>
+</resources>
